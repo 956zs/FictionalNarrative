@@ -1,0 +1,12 @@
+{
+    "backgrounds": {
+        "classroom": "images/background/場景-教室裡.webp",
+        "hallway": "images/background/場景-學校走廊.webp",
+        "library": "images/background/場景-圖書館.webp",
+        "entrance": "images/background/場景-校門口.webp",
+        "rooftop": "images/background/場景-大樓天臺.webp",
+        "playground": "images/background/場景-操場上.webp",
+        "stairs": "images/background/場景-樓梯間.webp",
+        "gym": "images/background/場景-體育館.webp"
+    }
+}

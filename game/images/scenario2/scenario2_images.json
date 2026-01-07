@@ -1,0 +1,14 @@
+{
+    "heroine_name": "白雪音",
+    "emotions": {
+        "normal": "images/scenario2/好奇.webp",
+        "smile": "images/scenario2/幸福.webp",
+        "blush": "images/scenario2/好奇又害羞.webp",
+        "worry": "images/scenario2/擔心.webp",
+        "surprised": "images/scenario2/小驚訝.webp",
+        "sad": "images/scenario2/憂傷.webp",
+        "angry": "images/scenario2/小生氣.webp",
+        "shy": "images/scenario2/害羞.webp",
+        "thinking": "images/scenario2/猶豫.webp"
+    }
+}

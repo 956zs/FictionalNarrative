@@ -1,0 +1,27 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "model": "gemini-2.5-flash",
+  "scenarios": [
+    {
+      "id": 1,
+      "name": "便條紙的秘密",
+      "heroine_name": "林語晴",
+      "story_file": "story1.txt",
+      "image_config": "images/scenario1/scenario1_images.json"
+    },
+    {
+      "id": 2,
+      "name": "圖書館的約定",
+      "heroine_name": "白雪音",
+      "story_file": "story2.txt",
+      "image_config": "images/scenario2/scenario2_images.json"
+    },
+    {
+      "id": 3,
+      "name": "天台的邂逅",
+      "heroine_name": "楓月夜",
+      "story_file": "story3.txt",
+      "image_config": "images/scenario3/scenario3_images.json"
+    }
+  ]
+}

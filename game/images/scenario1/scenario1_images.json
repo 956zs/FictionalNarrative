@@ -1,0 +1,15 @@
+{
+    "heroine_name": "林語晴",
+    "emotions": {
+        "normal": "images/scenario1/自信.webp",
+        "smile": "images/scenario1/祕密被知道時(諂媚).webp",
+        "blush": "images/scenario1/超級害羞.webp",
+        "worry": "images/scenario1/擔心.webp",
+        "surprised": "images/scenario1/驚訝.webp",
+        "sad": "images/scenario1/疑惑.webp",
+        "disgusted": "images/scenario1/厭惡.webp",
+        "shy": "images/scenario1/嬌羞.webp",
+        "thinking": "images/scenario1/沉思.webp",
+        "angry": "images/scenario1/生氣.webp"
+    }
+}

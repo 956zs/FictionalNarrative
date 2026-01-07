@@ -1,0 +1,14 @@
+{
+    "heroine_name": "楓月夜",
+    "emotions": {
+        "normal": "images/scenario3/日常.webp",
+        "smile": "images/scenario3/日常.webp",
+        "blush": "images/scenario3/嬌羞.webp",
+        "worry": "images/scenario3/苦惱.webp",
+        "surprised": "images/scenario3/驚訝.webp",
+        "sad": "images/scenario3/苦惱.webp",
+        "angry": "images/scenario3/日常.webp",
+        "shy": "images/scenario3/嬌羞.webp",
+        "thinking": "images/scenario3/苦惱.webp"
+    }
+}
