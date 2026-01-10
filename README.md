@@ -31,7 +31,7 @@
 ![alt text](docs/image-4.png)
 
 選擇角色劇情後會先生成一次初始劇情和選項
-![alt text](docs/image.png)
+![alt text](docs/image-5.png)
 
 可以選擇四種互動選項或不做動作
 ![alt text](docs/image-6.png)
