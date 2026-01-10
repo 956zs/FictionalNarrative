@@ -31,3 +31,5 @@
 
 # Claude Code local settings
 /.claude/
+
+.vscode/
